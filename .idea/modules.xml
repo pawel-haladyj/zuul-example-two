@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/h2-db-service/h2-db-service.iml" filepath="$PROJECT_DIR$/h2-db-service/h2-db-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-client/rest-client.iml" filepath="$PROJECT_DIR$/rest-client/rest-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zuul-example-two.iml" filepath="$PROJECT_DIR$/.idea/zuul-example-two.iml" />
     </modules>
   </component>

@@ -2,6 +2,7 @@ package pl.haladyj.h2dbservice.service;
 
 import org.springframework.stereotype.Service;
 import pl.haladyj.h2dbservice.model.Car;
+import pl.haladyj.h2dbservice.model.Cars;
 import pl.haladyj.h2dbservice.repository.CarRepository;
 
 import java.util.ArrayList;
