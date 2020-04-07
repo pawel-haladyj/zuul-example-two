@@ -4,7 +4,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import pl.haladyj.h2dbservice.model.Car;
-import pl.haladyj.h2dbservice.model.Cars;
 import pl.haladyj.h2dbservice.service.CarServiceImpl;
 
 import java.util.List;

@@ -2,30 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c66b5e0-4c17-4730-8084-5be0211b4b90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/model/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/java/pl/haladyj/restclient/RestClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/java/pl/haladyj/restclient/configuration/RestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/java/pl/haladyj/restclient/controller/DriverController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/java/pl/haladyj/restclient/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/java/pl/haladyj/restclient/model/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/java/pl/haladyj/restclient/model/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-client/src/test/java/pl/haladyj/restclient/RestClientApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h2-db-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/src/main/java/pl/haladyj/ingnoredservice/IngnoredServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/src/main/java/pl/haladyj/ingnoredservice/controller/IgnoredController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingnored-service/src/test/java/pl/haladyj/ingnoredservice/IngnoredServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/pl/haladyj/zuulservice/ZuulServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/pl/haladyj/zuulservice/configuration/ZuulConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/pl/haladyj/zuulservice/filter/ErrorFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/pl/haladyj/zuulservice/filter/PostFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/pl/haladyj/zuulservice/filter/PreFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/java/pl/haladyj/zuulservice/filter/RouteFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-service/src/test/java/pl/haladyj/zuulservice/ZuulServiceApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/controller/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/model/Cars.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/service/CarService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/service/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2-db-service/src/main/java/pl/haladyj/h2dbservice/service/CarServiceImpl.java" afterDir="false" />
     </list>
@@ -68,7 +92,7 @@
       <recent name="C:\Users\pawel\IdeaProjects\zuul-example-two\h2-db-service\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EurekaServerApplication">
+  <component name="RunManager" selected="Application.IngnoredServiceApplication">
     <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.haladyj.eurekaserver.EurekaServerApplication" />
       <module name="eureka-server" />
@@ -95,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IngnoredServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.haladyj.ingnoredservice.IngnoredServiceApplication" />
+      <module name="ingnored-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.haladyj.ingnoredservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RestClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.haladyj.restclient.RestClientApplication" />
       <module name="rest-client" />
@@ -108,8 +145,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZuulServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.haladyj.zuulservice.ZuulServiceApplication" />
+      <module name="zuul-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.haladyj.zuulservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZuulServiceApplication" />
+        <item itemvalue="Application.IngnoredServiceApplication" />
         <item itemvalue="Application.RestClientApplication" />
         <item itemvalue="Application.EurekaServerApplication" />
         <item itemvalue="Application.H2DbServiceApplication" />
@@ -133,10 +185,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1586181501712">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1586260052889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586181501712" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586260052889" />
     <state x="690" y="296" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586191677189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,21 +201,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586180452227" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586200716448">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586278671267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586200716448" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586200716448">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586278671267" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586278671267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586200716448" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586200716448">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586278671267" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586278671267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586200716448" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586200716448">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586278671267" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586278671267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586200716448" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586278671267" />
   </component>
 </project>

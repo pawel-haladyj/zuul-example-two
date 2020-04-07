@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/h2-db-service/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/rest-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ingnored-service/pom.xml" />
       </list>
     </option>
   </component>
