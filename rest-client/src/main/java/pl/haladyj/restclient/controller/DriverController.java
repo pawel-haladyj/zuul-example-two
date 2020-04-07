@@ -31,4 +31,9 @@ public class DriverController {
 
         return cars;
     }
+
+    @GetMapping("/toBeIgnored")
+    public String thisMessageShouldBeIgnored(){
+        return "This message should be ignored";
+    }
 }

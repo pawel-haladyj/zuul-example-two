@@ -7,17 +7,20 @@ spring:
 
 zuul:
   ignoredServices: '*'
+  ignoredPatterns: /**/toBeIgnored/**
   prefix: /api
   routes:
     h2-db-service:
       path: /database/**
       service-id: h2-db-service
-      stripPrefix: false #swithes off given zuul prefix (if given) eg. /api - see config above
+      sensitiveHeaders:
+      # stripPrefix: false #swithes off given zuul prefix (if given) eg. /api - see config above
       # url: http://localhost:8301/ in case that service-id is unknown or not registered in eureka server
     rest-client:
       path: /rest/**
       service-id: rest-client
       # url: http://localhost:8302/ in case that service-id is unknown or not registered in eureka server
+    #legacy: /**
 
 #ribbon:
 #  eureka:
